@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tamar\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tamar\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_TankS.-666978580.00" t="ExcludeRecursive" />
+    <e p="C:\Users\tamar\Projects\TankS" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Hovl Studio" t="Include">
+          <e p="Procedural fire" t="Include">
+            <e p="Demo scene" t="Include">
+              <e p="Readme.txt" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="FireSphere.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ExplosionScript.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IPoolable.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="GameManager.cs" t="Include" />
+          </e>
+          <e p="PlayerScript.cs" t="Include" />
+          <e p="ProjectileBehaviour.cs" t="Include" />
+          <e p="ScriptableObjects" t="Include">
+            <e p="Projectile.cs" t="Include" />
+          </e>
+          <e p="SpawnPools.cs" t="Include" />
+          <e p="TargetScript.cs" t="Include" />
+        </e>
+        <e p="Ultimate 10 Plus Shaders" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="U10PS_DissolveOverTime.cs" t="Include" />
+            <e p="U10PS_ExampleReview.cs" t="Include" />
+            <e p="U10PS_MouseRotation.cs" t="Include" />
+            <e p="U10PS_SnowOverTime.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Blur.shader" t="Include" />
+            <e p="Depth Mask Edge Detection.shader" t="Include" />
+            <e p="Dissolve.shader" t="Include" />
+            <e p="Edge Detection.shader" t="Include" />
+            <e p="Force Field.shader" t="Include" />
+            <e p="Grass Sway.shader" t="Include" />
+            <e p="Lava3D.shader" t="Include" />
+            <e p="Ocean.shader" t="Include" />
+            <e p="Outline.shader" t="Include" />
+            <e p="Plasma.shader" t="Include" />
+            <e p="Plexus" t="Include">
+              <e p="Plexus Line.shader" t="Include" />
+              <e p="Plexus.compute" t="Include" />
+              <e p="Plexus.cs" t="Include" />
+            </e>
+            <e p="Simple Sine Wave.shader" t="Include" />
+            <e p="Snow.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="TankS.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
